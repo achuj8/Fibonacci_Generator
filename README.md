@@ -28,7 +28,7 @@ Each next number is calculated as:
 
 ---
 
-## 💎 Project Structure
+## 💎 Structure
 ```text
     Fibonacci_Generator/
         |---- main.py
